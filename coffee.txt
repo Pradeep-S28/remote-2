@@ -1,1 +1,2 @@
 coffee created in git locally
+coffee diagram
